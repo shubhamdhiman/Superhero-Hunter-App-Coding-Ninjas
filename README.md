@@ -15,7 +15,7 @@ User can perform multiple task in this app.
 * FrontEnd - HTML & CSS
 * Scripting/Programming - Javascript
 * IDE - VSCode
-  
+   
   
 ## Preview of Project...
 
