@@ -16,7 +16,7 @@ User can perform multiple task in this app.
 * Scripting/Programming - Javascript
 * IDE - VSCode
    
-### Link for website: https://shubhamdhiman.github.io/Superhero-Hunter-App-Coding-Ninjas/
+### Link for website: https://huntmarvel.netlify.app/
 
 ### Youtube Video Link: https://www.youtube.com/watch?v=ro_XAkBixrc&ab_channel=ShubhamDhiman
   
